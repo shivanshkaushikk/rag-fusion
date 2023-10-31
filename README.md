@@ -5,6 +5,6 @@ RAG-Fusion aims to narrow the divide between users' explicit queries and their u
 
 In this repository, you will find RAG-Fusion's implementation using Langchain, Weaviate and OpenAI.
 
-This work is inspired by the original RAG-fusion repository: https://github.com/Raudaschl/rag-fusion
+This work is inspired by the original RAG-fusion repository: [rag-fusion](https://github.com/Raudaschl/rag-fusion)
 
-Check out this Medium article for a detailed explanation: https://medium.com/@shivansh.kaushik/this-technique-will-make-your-llm-smarter-and-more-context-aware-rag-on-steroids-b16d7cf4a42c
+Check out this Medium article for a detailed explanation: [This technique will make your LLM Smarter and more Context-Aware: RAG on Steroids](https://medium.com/@shivansh.kaushik/this-technique-will-make-your-llm-smarter-and-more-context-aware-rag-on-steroids-b16d7cf4a42c)
