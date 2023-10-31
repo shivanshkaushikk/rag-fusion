@@ -7,4 +7,4 @@ In this repository, you will find RAG-Fusion's implementation using Langchain, W
 
 This work is inspired by the original RAG-fusion repository: https://github.com/Raudaschl/rag-fusion
 
-Check out this Medium article for a detailed explanation: 
+Check out this Medium article for a detailed explanation: https://medium.com/@shivansh.kaushik/this-technique-will-make-your-llm-smarter-and-more-context-aware-rag-on-steroids-b16d7cf4a42c
