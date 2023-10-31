@@ -1,5 +1,5 @@
 # RAG-Fusion
-![RAG-Fusion Workflow](flow.png)
+![RAG-Fusion Workflow](flow.jpg)
 
 RAG-Fusion aims to narrow the divide between users' explicit queries and their underlying intentions, moving towards the revelation of valuable insights that are often concealed.
 
