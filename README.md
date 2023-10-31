@@ -1,5 +1,5 @@
 # RAG-Fusion
-![alt text](https://github.com/shivanshkaushikk/rag-fusion/blob/main/assets/flow.png?raw=true)
+![alt text](https://github.com/shivanshkaushikk/rag-fusion/blob/main/assets/flow.png)
 
 RAG-Fusion aims to narrow the divide between users' explicit queries and their underlying intentions, moving towards the revelation of valuable insights that are often concealed.
 
